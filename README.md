@@ -1,4 +1,4 @@
-# Critik  
+# Critik  [![DeepScan grade](https://deepscan.io/api/teams/5260/projects/8937/branches/114005/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=5260&pid=8937&bid=114005)
 A simple javascript testing framework for browser
 
 ### How to use  
