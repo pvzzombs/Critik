@@ -35,4 +35,12 @@ describe("A simple test whether 0.1 + 0.2 equals 0.3 in javascript exactly", fun
 ```   
 If you call the ``critik`` function and get its result, you should get ``true`` now.  Great!
   
+### How to access the results manually?  
+If you were to create a reporter, you can access result ``boolean`` by using ``GLOBAL.suite[i].results[j].result``, where ``i`` and ``j`` are iterators.  
+
+  
+### Reporting Bugs, Errors and Requesting new Features
+If you want to improve this repo, you can submit it through the ``Issues``. Make sure to explain it well and easily reproducible so that solving errors will be easy.
+
+## ENJOY!!! 
 ### documentation are coming soon...
